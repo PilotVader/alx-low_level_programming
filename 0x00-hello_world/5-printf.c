@@ -3,7 +3,7 @@
  /**
   * main - texto
   *
-  * Return: Always 0 (Success)
+  * Return: text in printf
   */
 int main(void)
 {
